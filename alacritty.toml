@@ -1,0 +1,50 @@
+[font]
+size = 7
+
+[font.bold]
+family = "FreeMono"
+style = "Bold"
+
+[font.bold_italic]
+family = "FreeMono"
+style = "Bold Italic"
+
+[font.italic]
+family = "FreeMono"
+style = "Italic"
+
+[font.normal]
+family = "FreeMono"
+style = "Medium"
+
+[window.padding]
+x = 3
+y = 3
+
+[cursor.style]
+blinking = "On"
+shape = "Beam"
+
+[colors.bright]
+black = "#1e2326"
+blue = "#384b55"
+cyan = "#7fbbb3"
+green = "#a7c080"
+magenta = "#d699b6"
+red = "#e67e80"
+white = "#ffffff"
+yellow = "#dbbc7f"
+
+[colors.normal]
+black = "#1e2326"
+blue = "#384b55"
+cyan = "#7fbbb3"
+green = "#a7c080"
+magenta = "#d699b6"
+red = "#e67e80"
+white = "#ffffff"
+yellow = "#dbbc7f"
+
+[colors.primary]
+background = "#1e2326"
+foreground = "#ffffff"
